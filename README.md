@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌟 ¡Hola! Soy <span style="color:#6C63FF;">[Tu Nombre]</span> 👋</h1>
+  <h1>🌟 ¡Hola! Soy <span style="color:#6C63FF;">Alejandro Morelli</span> 👋</h1>
   <p><strong>💻 Desarrollador(a) apasionado(a) por la tecnología y la innovación</strong></p>
   <p>Bienvenido(a) a mi espacio en GitHub. Aquí comparto proyectos que mezclan <em>creatividad</em>, <em>código limpio</em> y <em>muchas ganas de aprender</em>.</p>
   
